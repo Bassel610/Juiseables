@@ -1,0 +1,156 @@
+@media (max-width: 800px) {
+    .NavList{
+        display: none;
+    }
+    .Icon{
+        display: inline;
+    }
+    .LogoNav{
+        margin-left: 0;
+    }
+}
+@media (max-width: 800px) {
+    .RightView{
+        /* position: relative; 
+        top: 138px; */
+        /* left: 168px; */
+        /* float: none; */
+        /* display: block;*/
+        width: 100%;
+    height: 300px;
+    }
+    .LeftView{
+        position: relative;
+        top: -32px;
+        float: none;
+        height: 235px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .Imges{
+        width: 100%;
+        height: 100%;
+    }
+    .Button{
+        font-size: 15px;
+        padding: 7px;
+    }
+    .BigText{
+        font-size: 1.8rem;
+    }
+}
+@media (max-width: 800px) {
+    .DivCol1{
+        width: 140px;
+        height: 373px;
+    }
+    .DivCol2{
+        width: 140px;
+        height: 350px;
+        right: 0;
+        z-index: -1;
+    }
+}
+@media (max-width: 800px) {
+  .ImagesFrute1{
+    width: 293px;
+    left: -.5rem;
+    }
+      .ImagesFrute2{
+        width: 97px;
+        left: 6.5rem;
+        right: auto;
+        top: 4rem;
+        margin: 0 auto;
+      }
+      .ImagesFrute3{
+        width: 83px;
+        left: 11.5rem;
+        right: auto;
+        bottom: 0.5rem;
+      }
+      .ImagesFrute4{
+        width: 91px;
+        top: 6rem;
+        left: -0.35rem;
+      }
+      .ImagesFrute5:nth-child(1){
+        top: -3rem;
+        left: 12rem;
+      }
+      .ImagesFrute5:nth-child(2){
+        transform: rotate(-65deg);
+        top: -0.5rem;
+        left: 1.25rem;
+      }
+      .ImagesFrute5:nth-child(3){
+        width: 20px;
+        transform: rotate(-15deg);
+        top: 8rem;
+        left: 11rem; 
+      }
+      .ImagesFrute5:nth-child(4){
+        bottom: -1rem;
+        left: 1rem;
+      } 
+      .ImagesFrute5:nth-child(5){
+        display: none;
+      }
+      .ImagesFrute5:nth-child(6){
+        bottom: -4rem;
+        left: 13rem;
+      }
+    }
+    @media (max-width: 800px) {
+      .About-Us{
+        height: 243px !important;
+      }
+      .TextAbout{
+        width: 100% !important;
+      }
+      .H4About{
+        width: 100px;
+        margin: 24px;
+      }
+        .ImgAbout{
+          display: none;
+        }
+        .Ico {
+          display: none
+        }
+        .Dis{
+          display: none;
+        }
+        .TextIco {
+          width: 85%;
+      }
+    }
+    @media (max-width: 800px) {
+      .ContactCont{
+        margin-left: 0 !important;
+        margin-top: 10px;
+      }
+      .Servace{
+        height: auto;
+      }
+      .IcoServ{
+        margin-left: 0 !important; 
+      }
+      .TextAbout{
+          margin-left: 0;
+      }
+      .PostionSerc{
+        position: relative;
+      left: -35px;
+      }
+    }
+    @media (min-width: 400px) and (max-width: 800px){
+        .VideoBout{
+          display: none;
+        }
+    }
+    @media (min-width: 800px) and (max-width: 930px){
+        .ImgAbout{
+          width: 330px;
+        }
+    }
